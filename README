@@ -1,0 +1,13 @@
+La promenade quotidienne ( Simulation d'une routine matinale de deux personnes )
+
+Chaque matin, Alice et Bob se promènent, et étant pétris d’habitude, ils suivent la même routine tous les jours.
+
+Tout d'abord, ils se préparent tous les deux. Ils saisissent leurs lunettes de soleil, éventuellement une ceinture, ils ferment les fenêtres ouvertes, éteignent les ventilateurs de plafond, et mettent dans leur poche leur téléphone et leurs clés.
+
+Une fois qu'ils sont tous les deux prêts, ce qui prend généralement pour chacun d'eux entre 60 et 90 secondes, ils arment l'alarme, qui a un délai de 60 secondes.
+
+Alors que l'alarme compte à rebours, ils mettent chacun leurs chaussures, un processus qui tend à prendre pour chacun d'eux entre 35 et 45 secondes.
+
+Ensuite, ils quittent la maison ensemble et verrouillent la porte, avant même que l'alarme n’ait terminé son compte à rebours.
+
+
